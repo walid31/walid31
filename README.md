@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/walid31"><img src="https://api.daily.dev/devcards/12c840d709c14b70a5230924cf94a341.png?r=586" width="400" alt="Walid Ghalem's Dev Card"/></a>
+<a href="https://app.daily.dev/walid31"><img src="https://api.daily.dev/devcards/12c840d709c14b70a5230924cf94a341.png?r=586" width="150" alt="Walid Ghalem's Dev Card"/></a>
 <!--
 **walid31/walid31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
