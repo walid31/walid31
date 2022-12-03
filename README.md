@@ -1,4 +1,5 @@
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/walid31/walid31/blob/master/devcard.svg" width="200" alt="Walid Ghalem's Dev Card"/></a>
+
 <!--
 **walid31/walid31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
